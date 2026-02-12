@@ -1,44 +1,46 @@
 // =============================================================
-// COLOR SCHEME
-// Change these variables to customize the look of your site.
-// After editing, push to GitHub and the site rebuilds automatically.
+// COLOR SCHEME — Minimalist Black & White
 // =============================================================
 
-// -- Header gradient (the big colored banner at the top) --
-// $header-bg-color is the LEFT color, $header-bg-color-secondary is the RIGHT color.
-// Try these combinations:
-//   Blue-to-teal (current):  #155799 / #159957
-//   Dark blue:               #24292e / #155799
-//   Purple-to-blue:          #6f42c1 / #155799
-//   Pink-to-blue (Max's):    #ed3cfa / #155799
-//   Teal-to-green:           #0d9488 / #059669
+// -- Header: solid dark --
 $header-heading-color: #fff !default;
-$header-bg-color: #155799 !default;
-$header-bg-color-secondary: #159957 !default;
+$header-bg-color: #1a1a1a !default;
+$header-bg-color-secondary: #333333 !default;
 
-// -- Text colors --
-// $section-headings-color: color of section headings (h1, h2, etc.)
-// $body-text-color:        color of paragraph text
-// $body-link-color:        color of links in the body
-$section-headings-color: #155799 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
+// -- Text --
+$section-headings-color: #1a1a1a !default;
+$body-text-color: #333333 !default;
+$body-link-color: #1a1a1a !default;
+$blockquote-text-color: #555555 !default;
 
-// -- Code blocks --
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+// -- Code --
+$code-bg-color: #f5f5f5 !default;
+$code-text-color: #333333 !default;
 
 // -- Borders --
-$border-color: #dce6f0 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
+$border-color: #e0e0e0 !default;
+$table-border-color: #e0e0e0 !default;
+$hr-border-color: #e0e0e0 !default;
 
-// =============================================================
-// Don't edit below unless you know what you're doing
 // =============================================================
 
 @import "jekyll-theme-cayman";
+
+// Links: underline on hover only
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Header buttons: clean white outline
+.btn {
+  border-color: rgba(255, 255, 255, 0.5);
+  &:hover {
+    border-color: #fff;
+  }
+}
 
 table {
   width: 100%;
@@ -46,7 +48,7 @@ table {
 }
 
 table tr:nth-child(odd) {
-  background-color: #f9f9f9;
+  background-color: #fafafa;
 }
 
 table tr:nth-child(even) {
