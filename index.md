@@ -15,7 +15,7 @@ I am Gustav, a first-year Economics PhD student at the University of Zurich. My 
 
 **Downstream Impacts of Mines on Agriculture in Africa**
 with Lukas Vashold, Maximilian Heinze, & Nikolas Kuschnig
-*Journal of Development Economics, 179*, 103671. [https://doi.org/10.1016/j.jdeveco.2025.103671](https://doi.org/10.1016/j.jdeveco.2025.103671)
+*Journal of Development Economics, 179*, 103671. [https://doi.org/10.1016/j.jdeveco.2025.103671](https://doi.org/10.1016/j.jdeveco.2025.103671) · [VoxDev](https://voxdev.org/topic/agriculture/downstream-impacts-mines-how-pollution-hits-agriculture)
 
 <details>
 <summary>+ Abstract & Figure</summary>
