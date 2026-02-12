@@ -7,7 +7,7 @@ description: Economics PhD Student · University of Zurich
 # Hi!
 
 <p align="center">
-<img src="assets/photo.jpg" alt="Gustav Pirich" width="200" style="border-radius: 8px;">
+<img src="assets/photo.jpg" alt="Gustav Pirich" width="350" style="border-radius: 8px;">
 </p>
 
 I am Gustav, a first-year Economics PhD student at the University of Zurich. My research interests include development economics, environmental economics, and applied econometrics.
