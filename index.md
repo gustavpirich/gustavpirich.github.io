@@ -10,7 +10,7 @@ description: Economics PhD Student · University of Zurich
 <img src="assets/photo.jpg" alt="Gustav Pirich" width="350" style="border-radius: 8px;">
 </p>
 
-I am Gustav, a first-year Economics PhD student at the University of Zurich. My research interests include development economics, environmental economics, and applied econometrics.
+I'm a PhD student in the Department of Economics at the University of Zurich. My research examines the local impacts of Chinese-financed sports infrastructure and the environmental and social consequences of mining. More broadly, I'm interested in applied econometrics, political economy, and environmental economics.
 
 
 # Research
