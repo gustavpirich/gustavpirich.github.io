@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#155799">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">
+        <a href="{{ site.baseurl }}/">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
+      </h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+      <!-- =============================================================
+           HEADER BUTTONS
+           Edit these to change the buttons in the header.
+           To add a new button, copy one of the <a> lines and change
+           the href and text. To remove a button, delete the line.
+           ============================================================= -->
+      <a href="/assets/cv.pdf" class="btn">📄 CV</a>
+      <a href="mailto:gustav@pirich.at" class="btn">📬 Email</a>
+      <a href="https://github.com/gustavpirich" class="btn">💻 GitHub</a>
+      <!-- Example buttons you might want to add:
+      <a href="https://scholar.google.com/citations?user=YOURID" class="btn">🎓 Google Scholar</a>
+      <a href="https://orcid.org/YOUR-ORCID" class="btn">🆔 ORCID</a>
+      <a href="https://www.linkedin.com/in/YOURPROFILE" class="btn">🔗 LinkedIn</a>
+      <a href="https://youruni.ac.at/your-page" class="btn">🏛️ University Page</a>
+      -->
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <!-- =============================================================
+             FOOTER
+             Edit the text below to update your footer info.
+             ============================================================= -->
+        <span class="site-footer-credits">Gustav Pirich · <a href="mailto:gustav@pirich.at">gustav@pirich.at</a></span>
+      </footer>
+    </main>
+  </body>
+</html>
