@@ -1,0 +1,31 @@
+---
+---
+
+@import "custom";
+@import "{{ site.theme }}";
+
+// =============================================================
+// FONTS
+// To change fonts, replace the font names in the @import URL
+// and in the font-family properties below.
+// Browse fonts at: https://fonts.google.com
+// =============================================================
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Red+Hat+Display:wght@700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: bold;
+}
+
+h1.project-name a {
+  color: white;
+  text-decoration: none;
+}
+
+h1.project-name a:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+include:
+  - assets/css/style.scss
+title: ""
+description: ""
