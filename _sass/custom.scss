@@ -26,6 +26,11 @@ $hr-border-color: #e0e0e0 !default;
 
 @import "jekyll-theme-cayman";
 
+// Match main content width to header
+.main-content {
+  max-width: 900px;
+}
+
 // Header layout: text left, photo right
 .header-content {
   display: flex;
