@@ -54,6 +54,13 @@ Location of sports stadiums financed and constructed by China in Africa.
 ---
 
 
+# Work in Progress
+
+**Gold Mining and Schooling in Ghana**
+
+---
+
+
 # Teaching
 
 *Coming soon.*
