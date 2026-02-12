@@ -1,5 +1,5 @@
 // =============================================================
-// COLOR SCHEME — Minimalist Black & White
+// COLOR SCHEME
 // =============================================================
 
 // -- Header: blue-to-teal gradient --
@@ -26,9 +26,17 @@ $hr-border-color: #e0e0e0 !default;
 
 @import "jekyll-theme-cayman";
 
-// Match main content width to header
+// Align header and main content to same width
+.page-header {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 .main-content {
-  max-width: 900px;
+  max-width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 // Header layout: text left, photo right
@@ -36,8 +44,7 @@ $hr-border-color: #e0e0e0 !default;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 900px;
-  margin: 0 auto;
+  width: 100%;
 }
 
 .header-text {
@@ -55,11 +62,6 @@ $hr-border-color: #e0e0e0 !default;
 
 .header-buttons {
   margin-top: 15px;
-}
-
-// Override default centered header styles
-.page-header {
-  text-align: left;
 }
 
 @media screen and (max-width: 600px) {
