@@ -4,8 +4,6 @@ title: Gustav Pirich
 description: Economics PhD Student · University of Zurich
 ---
 
-# Hi!
-
 <p align="center">
 <img src="assets/photo.jpg" alt="Gustav Pirich" width="350" style="border-radius: 8px;">
 </p>
