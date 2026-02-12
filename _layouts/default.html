@@ -17,27 +17,22 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">
-        <a href="{{ site.baseurl }}/">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
-      </h1>
-      <img src="/assets/photo.jpg" alt="Gustav Pirich" style="width: 180px; border-radius: 50%; margin: 15px 0;">
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-
-      <!-- =============================================================
-           HEADER BUTTONS
-           Edit these to change the buttons in the header.
-           To add a new button, copy one of the <a> lines and change
-           the href and text. To remove a button, delete the line.
-           ============================================================= -->
-      <a href="/assets/cv.pdf" class="btn">📄 CV</a>
-      <a href="mailto:gustav@pirich.at" class="btn">📬 Email</a>
-      <a href="https://github.com/gustavpirich" class="btn">💻 GitHub</a>
-      <!-- Example buttons you might want to add:
-      <a href="https://scholar.google.com/citations?user=YOURID" class="btn">🎓 Google Scholar</a>
-      <a href="https://orcid.org/YOUR-ORCID" class="btn">🆔 ORCID</a>
-      <a href="https://www.linkedin.com/in/YOURPROFILE" class="btn">🔗 LinkedIn</a>
-      <a href="https://youruni.ac.at/your-page" class="btn">🏛️ University Page</a>
-      -->
+      <div class="header-content">
+        <div class="header-text">
+          <h1 class="project-name">
+            <a href="{{ site.baseurl }}/">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
+          </h1>
+          <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <div class="header-buttons">
+            <a href="/assets/cv.pdf" class="btn">📄 CV</a>
+            <a href="mailto:gustav@pirich.at" class="btn">📬 Email</a>
+            <a href="https://github.com/gustavpirich" class="btn">💻 GitHub</a>
+          </div>
+        </div>
+        <div class="header-photo">
+          <img src="/assets/photo.jpg" alt="Gustav Pirich">
+        </div>
+      </div>
     </header>
 
     <main id="content" class="main-content" role="main">
