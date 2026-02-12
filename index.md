@@ -61,13 +61,4 @@ Location of sports stadiums financed and constructed by China in Africa.
 ---
 
 
-# Teaching
-
-*Coming soon.*
-
-
-# Miscellaneous
-
-*Coming soon.*
-
 ---
