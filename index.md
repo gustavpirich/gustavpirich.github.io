@@ -8,6 +8,8 @@ description: Economics PhD Student · University of Zurich
 
 I'm a **PhD student** in the Department of Economics at the **University of Zurich**. My research examines the local impacts of Chinese-financed sports infrastructure and the environmental and social consequences of mining. More broadly, I'm interested in **applied econometrics**, **political economy**, and **environmental economics**.
 
+Feel free to reach out at [gustav.pirich@econ.uzh.ch](mailto:gustav.pirich@econ.uzh.ch).
+
 
 # Research
 
