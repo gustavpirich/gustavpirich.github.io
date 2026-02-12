@@ -36,7 +36,7 @@ Example of two Angolan mine sites (dotted, and labeled with '0') and their upstr
 
 **The Local Economic Impact of China's Stadium Diplomacy in Sub-Saharan Africa**
 with Valentin Lindlacher
-*World Development, 185*, 106765. [https://doi.org/10.1016/j.worlddev.2024.106765](https://doi.org/10.1016/j.worlddev.2024.106765)
+*World Development, 185*, 106765. [https://doi.org/10.1016/j.worlddev.2024.106765](https://doi.org/10.1016/j.worlddev.2024.106765) · [The Diplomat](https://thediplomat.com/2025/01/chinas-stadium-diplomacy-in-africa-pt-1-the-talanta-sports-stadium-in-nairobi/)
 
 <details>
 <summary>+ Abstract & Figure</summary>
