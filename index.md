@@ -15,7 +15,8 @@ Feel free to reach out at [gustav.pirich@econ.uzh.ch](mailto:gustav.pirich@econ.
 
 **Downstream Impacts of Mines on Agriculture in Africa**
 with Lukas Vashold, Maximilian Heinze, & Nikolas Kuschnig
-*Journal of Development Economics, 179*, 103671. [https://doi.org/10.1016/j.jdeveco.2025.103671](https://doi.org/10.1016/j.jdeveco.2025.103671) · [VoxDev](https://voxdev.org/topic/agriculture/downstream-impacts-mines-how-pollution-hits-agriculture)
+***Journal of Development Economics***, *179*, 103671. [https://doi.org/10.1016/j.jdeveco.2025.103671](https://doi.org/10.1016/j.jdeveco.2025.103671)
+[Click here for the VoxDev article](https://voxdev.org/topic/agriculture/downstream-impacts-mines-how-pollution-hits-agriculture)
 
 <details>
 <summary>+ Abstract & Figure</summary>
@@ -34,7 +35,8 @@ Example of two Angolan mine sites (dotted, and labeled with '0') and their upstr
 
 **The Local Economic Impact of China's Stadium Diplomacy in Sub-Saharan Africa**
 with Valentin Lindlacher
-*World Development, 185*, 106765. [https://doi.org/10.1016/j.worlddev.2024.106765](https://doi.org/10.1016/j.worlddev.2024.106765) · [The Diplomat](https://thediplomat.com/2025/01/chinas-stadium-diplomacy-in-africa-pt-1-the-talanta-sports-stadium-in-nairobi/)
+***World Development***, *185*, 106765. [https://doi.org/10.1016/j.worlddev.2024.106765](https://doi.org/10.1016/j.worlddev.2024.106765)
+Discussion: [The Diplomat](https://thediplomat.com/2025/01/chinas-stadium-diplomacy-in-africa-pt-1-the-talanta-sports-stadium-in-nairobi/)
 
 <details>
 <summary>+ Abstract & Figure</summary>
