@@ -57,7 +57,11 @@ $hr-border-color: #e0e0e0 !default;
   height: 320px;
   object-fit: cover;
   border-radius: 8px;
-  margin-left: 40px;
+  margin-left: 0px;
+}
+
+.header-content {
+  gap: 20px;
 }
 
 .header-buttons {
