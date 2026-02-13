@@ -6,10 +6,9 @@ description: Economics PhD Student · University of Zurich
 
 # Hi!
 
-I'm a **PhD student** in the Department of Economics at the **University of Zurich**. My research examines the local impacts of Chinese-financed sports infrastructure and the environmental and social consequences of mining. More broadly, I'm interested in **applied econometrics**, **political economy**, and **environmental economics**.
+I’m a first-year **PhD student** in the Department of Economics at the **University of Zurich**. My research examines the environmental and social consequences of mining. I use spatial data, especially **satellite imagery**, and applied microeconomic research designs to study questions in low and middle-income countries. Recently, I have been expanding into experimental economics and designing experiments to shed light on topics in political economy. More broadly, I’m interested in **environmental economics**, **applied econometrics**, and **political economy**, and I’m eager to learn about new fields and methods.
 
 Feel free to reach out at [gustav.pirich@econ.uzh.ch](mailto:gustav.pirich@econ.uzh.ch).
-
 
 # Research
 
