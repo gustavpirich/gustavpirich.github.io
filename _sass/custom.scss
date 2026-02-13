@@ -26,25 +26,19 @@ $hr-border-color: #e0e0e0 !default;
 
 @import "jekyll-theme-cayman";
 
-// Align header and main content to same width
+// Keep original Cayman proportions, just add photo to header
 .page-header {
   text-align: left;
-  padding-left: 10%;
-  padding-right: 10%;
-}
-
-.main-content {
-  max-width: 100%;
-  padding-left: 10%;
-  padding-right: 10%;
 }
 
 // Header layout: text left, photo right
 .header-content {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  width: 100%;
+  justify-content: center;
+  gap: 30px;
+  max-width: 42rem;
+  margin: 0 auto;
 }
 
 .header-text {
@@ -53,15 +47,10 @@ $hr-border-color: #e0e0e0 !default;
 }
 
 .header-photo img {
-  width: 320px;
-  height: 320px;
+  width: 220px;
+  height: 220px;
   object-fit: cover;
   border-radius: 8px;
-  margin-left: 0px;
-}
-
-.header-content {
-  gap: 20px;
 }
 
 .header-buttons {
@@ -75,10 +64,6 @@ $hr-border-color: #e0e0e0 !default;
   }
   .header-text {
     text-align: center;
-  }
-  .header-photo img {
-    margin-left: 0;
-    margin-top: 20px;
   }
   .page-header {
     text-align: center;
