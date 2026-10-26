@@ -32,26 +32,6 @@ Example of two Angolan mine sites (dotted, and labeled with '0') and their upstr
 
 ---
 
-**The Local Economic Impact of China's Stadium Diplomacy in Sub-Saharan Africa**
-with Valentin Lindlacher
-***World Development***, *185*, 106765. [https://doi.org/10.1016/j.worlddev.2024.106765](https://doi.org/10.1016/j.worlddev.2024.106765)
-Discussion: [The Diplomat](https://thediplomat.com/2025/01/chinas-stadium-diplomacy-in-africa-pt-1-the-talanta-sports-stadium-in-nairobi/)
-
-<details>
-<summary>+ Abstract & Figure</summary>
-<br>
-<p>
-This study investigates the economic impact of China's "stadium diplomacy" in Sub-Saharan Africa. Exploiting the staggered timing of the construction in a difference-in-differences framework, we analyze the effect of Chinese-built and financed stadiums on local economic development. Employing nighttime light satellite data, we provide both an aggregate and spatially disaggregated assessment of these investments. We find that a stadium's city nighttime light intensity increases by about 24 percent, on average, after stadium completion. The effects can be attributed to the stadiums but are not only visible close to the stadium's location. Estimates on nighttime light activity are mirrored by individual-level employment effects in the stadiums' surrounding area. For stadiums not built or financed by China, we cannot find similar effects. Our results contrast with the widely held notion that China's development finance projects constitute "white elephants".
-</p>
-<br>
-<img src="assets/fig_stadiums.png" alt="Stadium Diplomacy Figure" width="100%">
-<p style="font-size: 0.9em; color: #606c71;">
-Location of sports stadiums financed and constructed by China in Africa.
-</p>
-</details>
-
----
-
 
 # Work in Progress
 
